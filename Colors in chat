@@ -1,0 +1,30 @@
+RED
+```diff
+- Here's some red colored text!
+```
+
+GREEN
+```diff
++ Here's some green colored text!
+```
+
+YELLOW
+```fix
+Everything is yellow in fix --
+No matter the line! 
+```
+
+DARK GREEN
+```css
+dark green
+```
+
+CYAN
+```bash
+"Here's some nice, cyan text"
+```
+
+BLUE
+```ini
+[Here's some blue highlighted text]
+```
